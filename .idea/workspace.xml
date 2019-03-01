@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4969d3d7-d822-4d1e-998a-280fbd2708b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/PrimeNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/RemoveDuplicateArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/ReplaceSecondLarestNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/StringReverse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memoization/GenericMemoize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Array/ArrayMultiplcation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Array/MagicSquare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Array/NextGreater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Array/NextGreatest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Array/ReplaceSumOfOtherElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Array/UnSortedArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/BinarySearch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/PrimeFactors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/TwoSum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Endurance/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelColumn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TaskRunner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/PrimeNumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/PrimeNumber.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,59 +64,119 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="1820336228">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="40" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="161" />
+          <entry key="js" value="1775" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="161" />
+          <entry key="JavaScript" value="1775" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Let/let.js">
+        <entry file="file://$PROJECT_DIR$/Promise/promise-multiple-fetch.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fibonacci.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prototype-inheritance.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rest-Parameter.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms/Factorial.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Events.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Memoization/GenericMemoize.js">
+        <entry file="file://$PROJECT_DIR$/TaskRunner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+            <state relative-caret-position="255">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/PrimeNumber.js">
+        <entry file="file://$PROJECT_DIR$/ExcelColumn.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/RemoveDuplicateArray.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms/StringReverse.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            <state relative-caret-position="120">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithms/ReplaceSecondLarestNumber.js">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Promise/promise-basic.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -114,6 +186,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -126,10 +199,26 @@
       <list>
         <option value="$PROJECT_DIR$/Let/let.js" />
         <option value="$PROJECT_DIR$/Memoization/index.js" />
-        <option value="$PROJECT_DIR$/Algorithms/PrimeNumber.js" />
         <option value="$PROJECT_DIR$/Algorithms/RemoveDuplicateArray.js" />
         <option value="$PROJECT_DIR$/Algorithms/StringReverse.js" />
         <option value="$PROJECT_DIR$/Algorithms/ReplaceSecondLarestNumber.js" />
+        <option value="$PROJECT_DIR$/Algorithms/TwoSum.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Array/Search-UnSorted.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Array/UnSortedArray.js" />
+        <option value="$PROJECT_DIR$/Array/MagicSquare.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Array/ReplaceSumOfOtherElements.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Array/NextGreatest.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Array/NextGreater.js" />
+        <option value="$PROJECT_DIR$/Endurance/index.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Array/ArrayMultiplcation.js" />
+        <option value="$PROJECT_DIR$/Algorithms/PrimeNumber.js" />
+        <option value="$PROJECT_DIR$/Algorithms/PrimeFactors.js" />
+        <option value="$PROJECT_DIR$/Algorithms/BinarySearch.js" />
+        <option value="$PROJECT_DIR$/Algorithms/Factorial.js" />
+        <option value="$PROJECT_DIR$/Events.html" />
+        <option value="$PROJECT_DIR$/TaskRunner.js" />
+        <option value="$PROJECT_DIR$/ExcelColumn.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -140,17 +229,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="37" />
-    <option name="y" value="23" />
-    <option name="width" value="1403" />
-    <option name="height" value="877" />
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="948" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,27 +245,24 @@
               <item name="Javascript-concepts-programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript-concepts-programs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Javascript-concepts-programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript-concepts-programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Javascript-concepts-programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Javascript-concepts-programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Memoization" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithms/Array" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,36 +276,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.ReplaceSecondLarestNumber.js">
-    <configuration name="GenericMemoize.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Memoization/GenericMemoize.js" working-dir="$PROJECT_DIR$/Memoization">
+  <component name="RunManager" selected="Node.js.ExcelColumn.js">
+    <configuration name="Events.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-concepts-programs/Events.html">
       <method v="2" />
     </configuration>
-    <configuration name="PrimeNumber.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="PrimeNumber.js" working-dir="$PROJECT_DIR$/Algorithms">
+    <configuration name="ExcelColumn.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ExcelColumn.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="RemoveDuplicateArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="RemoveDuplicateArray.js" working-dir="$PROJECT_DIR$/Algorithms">
+    <configuration name="Factorial.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Factorial.js" working-dir="$PROJECT_DIR$/Algorithms">
       <method v="2" />
     </configuration>
-    <configuration name="ReplaceSecondLarestNumber.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="ReplaceSecondLarestNumber.js" working-dir="$PROJECT_DIR$/Algorithms">
+    <configuration name="TaskRunner.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="TaskRunner.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="StringReverse.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="StringReverse.js" working-dir="$PROJECT_DIR$/Algorithms">
+    <configuration name="closurePrintForloop.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="closurePrintForloop.js" working-dir="$PROJECT_DIR$/Closure">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.GenericMemoize.js" />
-      <item itemvalue="Node.js.PrimeNumber.js" />
-      <item itemvalue="Node.js.RemoveDuplicateArray.js" />
-      <item itemvalue="Node.js.StringReverse.js" />
-      <item itemvalue="Node.js.ReplaceSecondLarestNumber.js" />
+      <item itemvalue="Node.js.closurePrintForloop.js" />
+      <item itemvalue="Node.js.Factorial.js" />
+      <item itemvalue="JavaScript Debug.Events.html" />
+      <item itemvalue="Node.js.TaskRunner.js" />
+      <item itemvalue="Node.js.ExcelColumn.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.ReplaceSecondLarestNumber.js" />
-        <item itemvalue="Node.js.StringReverse.js" />
-        <item itemvalue="Node.js.RemoveDuplicateArray.js" />
-        <item itemvalue="Node.js.PrimeNumber.js" />
-        <item itemvalue="Node.js.GenericMemoize.js" />
+        <item itemvalue="Node.js.ExcelColumn.js" />
+        <item itemvalue="Node.js.TaskRunner.js" />
+        <item itemvalue="JavaScript Debug.Events.html" />
+        <item itemvalue="Node.js.Factorial.js" />
+        <item itemvalue="Node.js.closurePrintForloop.js" />
       </list>
     </recent_temporary>
   </component>
@@ -246,27 +330,58 @@
     <option name="totallyTimeSpent" value="5716000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="23" width="1403" height="877" extended-state="6" />
+    <frame x="0" y="22" width="1680" height="952" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24891461" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26373628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32738853" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42206234" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27359617" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Regex Tester" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="ReST Console" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25763127" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Regex Tester" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.67587036" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="ReST Console" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -289,31 +404,169 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Array/RemoveArrayElement.js" />
+    <entry file="file://$PROJECT_DIR$/Endurance/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="42" column="17" lean-forward="true" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Array/ArrayMultiplcation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Array/MagicSquare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Array/NextGreater.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Array/NextGreatest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Array/ReplaceSumOfOtherElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Array/UnSortedArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/BinarySearch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/PrimeFactors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/PrimeNumber.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="643">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/RemoveDuplicateArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms/StringReverse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/ReplaceSecondLarestNumber.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/StringReverse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/TwoSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/Monster.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Closure/closurePrintForloop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/promise-multiple.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/promise-multiple-fetch.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fibonacci.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype-inheritance.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rest-Parameter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms/Factorial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaskRunner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promise/promise-basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExcelColumn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
